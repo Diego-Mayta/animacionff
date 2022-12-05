@@ -15,7 +15,7 @@
     background: url("fondoffffff.jpg");
     background-repeat: no-repeat;
     position: relative;
-    animation: animarfondo 3s linear infinite;
+    animation: animarfondo 5s linear infinite;
     margin: 0 auto;
 }
 @keyframes correr{
